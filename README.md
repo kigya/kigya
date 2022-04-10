@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kirillborichevskiy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kirillborichevskiy" height="30" width="40" /></a>
-<a href="https://t.me/kigya" target="blank"><img align="center" src="https://commons.wikimedia.org/wiki/File:Telegram_logo.svg" alt="kigya" height="30" width="30" /></a>
+<a href="https://t.me/kigya" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="kigya" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
