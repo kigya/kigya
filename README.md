@@ -6,7 +6,7 @@
 [![telegram](https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kigya/)
 
 ## 🛠 Skills
-<p align="center">
+<p align="center" margin=12>
 <img src="https://www.svgrepo.com/show/303617/kotlin-1-logo.svg" alt="Kotlin" width=32>
 <img src="https://www.svgrepo.com/show/184143/java.svg" alt="Java" width=38>
 <img src="https://www.svgrepo.com/show/184140/android.svg" alt="Android" width=34>
