@@ -7,9 +7,8 @@
 
 ## 🛠 Skills
 <p align="center">
-<img src="https://www.svgrepo.com/show/303617/kotlin-1-logo.svg" alt="Kotlin" width=32 margin-right=12>
-
-<img src="https://www.svgrepo.com/show/250465/java.svg" alt="Java" width=32>
+<img src="https://www.svgrepo.com/show/303617/kotlin-1-logo.svg" alt="Kotlin" width=32>
+<img src="https://www.svgrepo.com/show/184143/java.svg" alt="Java" width=32>
 <img src="https://www.svgrepo.com/show/184140/android.svg" alt="Android" width=32>
 </p>
 
