@@ -11,8 +11,6 @@
 <img src="https://www.svgrepo.com/show/184143/java.svg" alt="Java" width=38>
 <img src="https://www.svgrepo.com/show/184140/android.svg" alt="Android" width=34>
 <img src="https://www.svgrepo.com/show/354987/figma.svg" alt="Figma" width=34>
-<img src="https://www.svgrepo.com/show/373968/photoshop.svg" alt="Photoshop" width=36>
-<img src="https://www.svgrepo.com/show/303184/adobe-illustrator-cc-logo.svg" alt="Illustrator" width=34>
 </p>
 
 
