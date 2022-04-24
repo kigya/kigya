@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kigya</h1>
 <h3 align="center">A passionate Android Developer from Belarus</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kigya&label=Profile%20views&color=0e75b6&style=flat" alt="kigya" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kigya&label=Profile%20views&color=0e75b6&style=for_the_badge" alt="kigya" /> </p>
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirillborichevskiy/)
