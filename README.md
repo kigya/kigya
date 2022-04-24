@@ -15,8 +15,8 @@
 </p>
 
 ## 🚀 Statistics
-<p margin-bottom=32><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kigya&show_icons=true&locale=en&layout=compact" alt="kigya" /></p>
+<p margin-bottom=32 margin-top=32><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kigya&show_icons=true&locale=en&layout=compact" alt="kigya" /></p>
 
-<p margin-bottom=32>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kigya&show_icons=true&locale=en" alt="kigya" /></p>
+<p margin-bottom=32><img align="center" src="https://github-readme-stats.vercel.app/api?username=kigya&show_icons=true&locale=en" alt="kigya" /></p>
 
 <p margin-bottom=32><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kigya&theme=default" alt="kigya" /></p>
