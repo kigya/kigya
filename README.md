@@ -6,7 +6,8 @@
 [![telegram](https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kigya/)
 
 ## 🛠 Skills
-<img  height =" 32 " width =" 32 " src =" https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/kotlin.svg " />
+![kotlin](https://user-images.githubusercontent.com/73034324/164985279-d23edf27-daa8-4885-b744-2ed3c537ec36.svg)
+
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kigya&show_icons=true&locale=en&layout=compact" alt="kigya" /></p>
