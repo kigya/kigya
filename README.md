@@ -5,8 +5,7 @@
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirillborichevskiy/)
-[![telegram](https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)]
-(https://t.me/kigya)
+[![telegram](https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kigya/)
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kigya&show_icons=true&locale=en&layout=compact" alt="kigya" /></p>
