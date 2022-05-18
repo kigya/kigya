@@ -14,8 +14,3 @@
 <img src="https://www.svgrepo.com/show/354987/figma.svg" alt="Figma" width=34>
 </p>
 
-## 🚀 Statistics
-<p margin-bottom=32 margin-top=32><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kigya&show_icons=true&locale=en&layout=compact" alt="kigya" /></p>
-
-<p margin-bottom=32><img align="center" src="https://github-readme-stats.vercel.app/api?username=kigya&show_icons=true&locale=en" alt="kigya" /></p>
-
