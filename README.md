@@ -8,7 +8,7 @@ val kigya = developer {
     }
     links {
         linkedin = "@kirillborichevskiy"
-	      telegram = "@kigya"
+	telegram = "@kigya"
     }
 }
 
